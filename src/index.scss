@@ -1,0 +1,134 @@
+@import "theme.scss";
+
+body {
+  margin: 0;
+  margin-left:1cm;
+  text-align: center;
+  background-color: $mainBackgroundColor;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dialogHeader {
+  width: 100%;
+  border-bottom: 1px solid black;
+  background-image: linear-gradient(red,orange);
+  font-size: 120%;
+  text-align: center;
+  font-weight: bold;
+}
+
+button {
+  width: 100%;
+  border-bottom: 1px solid black;
+  background-image: linear-gradient(red,orange);
+  border-radius: 10px;
+  font-size: 120%;
+  text-align: center;
+  font-weight: bold;
+  display:inline-block;
+}
+
+.buttonBar {
+  display: inline-block;
+}
+
+.addServices {
+  border: 1px dashed gray;
+  min-width: 32px;
+  min-height: 32px;
+}
+
+.dialog {
+  border: 1px solid black;
+  box-shadow: rgba(0,0,0,0.5) 8px 8px 15px;
+  border-radius: 10px;
+  margin-top: 12%;
+  min-width: 320px;
+  min-height: 240px;
+  text-align: center;
+  position: absolute;
+  background-color: $itemBackgroundColor;
+  color: #000000;
+  z-index: 2;
+}
+
+.device {
+  border: 1px solid black;
+  box-shadow: rgba(0,0,0,0.5) 8px 8px 15px;
+  float: left;
+  border-radius: 10px;
+  padding: $devicePadding;
+  width: $deviceWidth;
+  height: $deviceHeight;
+  text-align: center;
+  margin: 25px;
+  background-color: $itemBackgroundColor;
+  color: #000000;
+}
+
+.addDevice {
+  border: 4px dashed $addItemColor;
+  float: left;
+  border-radius: 15px;
+  padding: $devicePadding;
+  padding-bottom: $devicePadding * 2;
+  width:$deviceWidth;
+  height:$deviceHeight;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: 800;
+  font-size: $deviceWidth - ($devicePadding * 2);
+  margin: 25px;
+  color: $addItemColor;
+}
+
+.addDevice:hover {
+  cursor:pointer;
+}
+
+.service {
+  display:inline-block;
+  margin:3px;
+}
+
+.disabled { // create a ghost-like image
+  filter: sepia(100%) hue-rotate(150deg) contrast(40%) brightness(150%) grayscale(40%);
+}
+
+.tooltipHeading {
+  border-bottom:1px solid black;
+  font-weight: bold;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  padding:3px;
+  background-color: rgb(215, 212, 133);
+  box-shadow: rgba(0,0,0,0.5) 8px 8px 15px;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

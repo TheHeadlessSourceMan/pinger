@@ -1,0 +1,122 @@
+[
+  {
+    "icon": "services/wireless_router.svg",
+    "address": "192.168.1.1",
+    "label": "main router",
+    "services": [
+      {
+        "name":"admin page",
+        "icon":"services/html.svg",
+        "address":"https://192.168.1.1"
+      }
+    ]
+  },
+  {
+    "icon": "services/desktop.svg",
+    "address": "192.168.1.43",
+    "label": "JOYCE-HP",
+    "macAddress": "D4:85:64:AB:7A:9D",
+    "services": [
+      {
+        "name":"jupyter notebook",
+        "icon":"services/jupyter.png",
+        "address":"https://192.168.1.43:8088/"
+      },
+      {
+        "name":"nxFilter Admin",
+        "icon":"services/html.svg",
+        "address":"https://192.168.1.43/admin"
+      },
+      {
+        "name":"ssh",
+        "icon":"services/terminal.png",
+        "address":"ssh://192.168.1.43"
+      },
+      {
+        "name":"remote desktop",
+        "icon":"services/rdp.png",
+        "address":"rdp://JOYCE-HP"
+      },
+      {
+        "name":"sftp",
+        "icon":"services/files.png",
+        "address":"sftp://192.168.1.43"
+      }
+    ]
+  },
+  {
+    "icon": "services/laptop.png",
+    "address": "192.168.1.41",
+    "label": "Dell-1","services": [
+      {
+        "name":"vnc desktop",
+        "icon":"services/vnc.png",
+        "address":"vnc://192.168.1.41"
+      },
+      {
+        "name":"sftp",
+        "icon":"services/files.png",
+        "address":"sftp://192.168.1.41"
+      }
+    ]
+  },
+  {
+    "icon": "services/roku.png",
+    "address": "192.168.1.21",
+    "label": "Roku 3"
+  },
+  {
+    "icon": "services/laptop.png",
+    "address": "192.168.1.77",
+    "label": "fake"
+  },
+  {
+    "icon": "services/laptop.png",
+    "address": "192.168.1.49",
+    "label": "q3"
+  },
+  {
+    "icon": "services/phone.svg",
+    "address": "192.168.1.40",
+    "label": "mochi",
+    "services": [
+      {
+        "name":"ssh",
+        "icon":"services/terminal.png",
+        "address":"ssh://192.168.1.43"
+      },
+      {
+        "name":"sftp",
+        "icon":"services/files.png",
+        "address":"sftp://192.168.1.43"
+      }
+    ]
+  },
+  {
+    "icon": "services/laptop.png",
+    "address": "192.168.1.122",
+    "label": "q43"
+  },
+  {
+    "icon": "services/laptop.png",
+    "address": "192.168.1.151",
+    "label": "pclaptops1",
+    "services": [
+      {
+        "name":"vnc desktop",
+        "icon":"services/vnc.png",
+        "address":"vnc://192.168.1.41"
+      },
+      {
+        "name":"ssh",
+        "icon":"services/terminal.png",
+        "address":"ssh://192.168.1.43"
+      },
+      {
+        "name":"sftp",
+        "icon":"services/files.png",
+        "address":"sftp://192.168.1.43"
+      }
+    ]
+  }
+]

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg8931"
+    sodipodi:docname="New document 4"
+    viewBox="0 0 579.8 199.63"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="-8"
+      pagecolor="#ffffff"
+      inkscape:window-height="658"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.35"
+      inkscape:window-x="-8"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="315.89793"
+      inkscape:cy="67.512199"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-65.076 -235.68)"
+    >
+    <path
+        id="path8966"
+        sodipodi:nodetypes="ccccccc"
+        style="fill:#000000"
+        d="m65.076 260.52v101.02l391.81 73.767 187.99-36.958v-101.05l-394.23-61.62-185.57 24.84z"
+    />
+    <path
+        id="rect3228-7"
+        sodipodi:nodetypes="ccccc"
+        style="fill:#e9c6af"
+        d="m250.8 239.58 388.02 60.75-177.15 34.98-391.94-71.4 181.07-24.33z"
+    />
+    <path
+        id="rect3208-9"
+        style="fill:#c87137"
+        d="m69.725 359.29 387.58 68.341v-95.307l-387.58-68.341v95.307z"
+    />
+    <rect
+        id="rect3224-1"
+        style="fill:#deaa87"
+        transform="matrix(-.98481 .17365 0 -1 0 0)"
+        height="95.307"
+        width="184.4"
+        y="-508.26"
+        x="-648.7"
+    />
+    <g
+        id="g7988"
+        transform="matrix(5.0824 0 0 5.0824 -1030.6 -4368.3)"
+      >
+      <path
+          id="rect7975"
+          style="fill:#000000"
+          d="m220.25 914.24v10.627s2.8228 0.50352 2.8228 0.50352v3.4964l6.4848 1.1539v-3.4935s2.8162 0.50234 2.8162 0.50234v-10.611l-12.124-2.1788"
+      />
+      <path
+          id="path7980"
+          style="fill:#000000"
+          d="m238.28 917.48v10.603s2.81 0.50123 2.81 0.50123v3.4884l6.4554 1.1486v-3.4856s2.8034 0.50006 2.8034 0.50006v-10.587l-12.069-2.169"
+      />
+      <path
+          id="path7982"
+          style="fill:#000000"
+          d="m251.75 919.9v10.585s2.8004 0.49953 2.8004 0.49953v3.4825l6.4335 1.1447v-3.4797s2.7939 0.49837 2.7939 0.49837v-10.569l-12.028-2.1616"
+      />
+      <path
+          id="path7984"
+          style="fill:#000000"
+          d="m265.18 922.31v10.567l2.7909 0.49784v3.4766l6.4117 1.1409v-3.4738l2.7844 0.49668v-10.551l-11.987-2.1543"
+      />
+      <path
+          id="path7986"
+          style="fill:#000000"
+          d="m278.55 924.72v10.549l2.7815 0.49616v3.4707l6.39 1.137v-3.4679s2.775 0.49499 2.775 0.49499v-10.533s-11.946-2.147-11.946-2.147"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Router Schema</dc:title
+        >
+        <dc:date
+          >2010-09-15T15:26:20</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/84991/router-schema-by-sheikh_tuhin</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >sheikh_tuhin</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >IT</rdf:li
+            >
+            <rdf:li
+              >hardware</rdf:li
+            >
+            <rdf:li
+              >internet</rdf:li
+            >
+            <rdf:li
+              >network</rdf:li
+            >
+            <rdf:li
+              >router</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
